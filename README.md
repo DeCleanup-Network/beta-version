@@ -30,23 +30,18 @@ This transaction is triggered from the admin’s wallet, which creates scalabili
 The current system relies heavily on the admin wallet for most transactions, leading to bottlenecks and reduced decentralization. The system needs to transition to user-initiated transactions for alignment with blockchain principles.
 
 ### Desired Metadata Information for Dynamic Assets
-The DeCleanup dynamic collection will reflect tokenized cleanup efforts with the following metadata:
+Metadata has constant traits that stay the same with each level upgrade and dynamic parameters and dynamic traits that change.
 
-**Developer**: EcoSynthesisX.eth.
-
-**Collection Type**: Dynamic Tokenized Impact
-
-**Traits**:
-
+Developer: EcoSynthesisX.eth.
+Collection Description: Dynamic impact assets with future staking utility, tokenizing cleanup environmental efforts
+**constant traits**
 Category: Cleanup Impact Product
-
 Impact: Environmental
-
-Type: Dynamic assets with future staking utility.
-
+Type: Dynamic Tokenized Impact
+**dynamic**
 DCU Points: Varies based on level (e.g., 10 for Newbie, 100 for Guardian).
-
 Impact Value (IV): Varies based on level (e.g., 1 for Newbie, 10 for Guardian).
+Level: User progression reflected dynamically (e.g., Newbie, Pro, Hero, Guardian).
 
 ### Goals for V2
 **1. Multichain Compatibility:**
