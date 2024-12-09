@@ -34,10 +34,15 @@ Metadata has constant traits that stay the same with each level upgrade and dyna
 
 Developer: EcoSynthesisX.eth.
 Collection Description: Dynamic impact assets with future staking utility, tokenizing cleanup environmental efforts
+
 **constant traits**
+
 Category: Cleanup Impact Product
+
 Impact: Environmental
+
 Type: Dynamic Tokenized Impact
+
 **dynamic**
 DCU Points: Varies based on level (e.g., 10 for Newbie, 100 for Guardian).
 Impact Value (IV): Varies based on level (e.g., 1 for Newbie, 10 for Guardian).
