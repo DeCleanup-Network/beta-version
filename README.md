@@ -49,8 +49,8 @@ Impact Value (IV): Varies based on level (e.g., 1 for Newbie, 10 for Guardian).
 Level: User progression reflected dynamically (e.g., Newbie, Pro, Hero, Guardian).
 
 ### Goals for V2
-**1. Multichain Compatibility:**
-Explore multichain support starting with [Supra L1 Move](https://supra.com/), if feasible.
+**1. Launch on Supra:**
+Explore multichain support starting with [Supra L1 Move](https://supra.com/)
 
 **2. Proof of Impact (PoI) Enhancements**
 Enhance submission data by including GEO location and timestamp information.
